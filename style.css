@@ -1,0 +1,36 @@
+/*Selector{
+	Property: value;
+}*/
+
+body{
+	background-image: url(https://images.unsplash.com/photo-1688530324360-33002e7f9736?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80);
+	background-size: cover;
+}
+h1{
+	color: #00D40E;
+	text-align: center;
+	border: 5px solid #008409;
+}
+
+p {
+	color: green;
+	text-decoration: underline;
+	font-style: italic;
+	font-size: 110%;
+	font-family: Georgia;
+}
+
+.boxmodel{
+	border: 5px solid aquamarine;
+}
+
+ol {
+	color: green;
+	font-size: 25px;
+}
+
+h5 {
+	text-decoration: underline;
+	font-style: !important;
+	font-size: 40px;
+}
